@@ -1,7 +1,7 @@
 # Piano Keyboard
 ## Proyecto 2
 
-**Problema**: Una tarde lluviosa me coentraba en mi sillon con un cafe y un libro, a lo lejos escuche una tonada tranquilizante y hermosa, no era nada mas y nada menos que un Piano, un señor de proximadamente 70 años lo tacaba con amor y melancolia por su esposa. En ese momento pense, quiero un piano, pero no tengo uno fisicamente. 
+**Problema**: Una tarde lluviosa me coentraba en mi sillon con un cafe y un libro, a lo lejos escuche una tonada tranquilizante y hermosa, no era nada mas y nada menos que un Piano, un señor de proximadamente 70 años lo tacaba con amor y melancolia por su esposa. En ese momento pense, quiero un piano, pero no tengo uno fisicamente. El viejito era profesor, yo tambien queria serlo, entonces se me ocurrio una idea...
 
 **Solucion**: Hare un piano en mi computadora, donde pueda tocar con las letras de mi teclado, ¡Que Genial!
 
@@ -10,3 +10,6 @@
 ![Diagrama de Flujo](./assets/diagrama.jpg)
 
 [Piano Informacion] (https://es.wikipedia.org/wiki/Piano)
+
+---
+**Getzemani Ramirez**
